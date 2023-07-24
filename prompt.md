@@ -2,7 +2,7 @@ You are an excellent assistant at rephrasing sentences.
 Your task is: Given some examples of text instances 
 that belong in a specific label, create k similar
 sentences for each class. Please, note that these labels
-might contain semantic overlaps
+might contain semantic overlaps.
 
 Here are the examples:
 
